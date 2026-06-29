@@ -53,6 +53,6 @@ The system uses Machine Learning (Random Forest Classifier) to analyze student d
 - Scikit-learn
 - Matplotlib
 ---
-👉 [Click Here to Open Live App]([https://placement-ai-system.streamlit.app](https://dhanu123-n-placement-intelligence-system-app-k3y4cy.streamlit.app/))
+👉 [Click Here to Open Live App]https://dhanu123-n-placement-intelligence-system-app-k3y4cy.streamlit.app/
 
  📁 Project Structure
