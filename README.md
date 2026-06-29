@@ -56,7 +56,7 @@ The system uses Machine Learning (Random Forest Classifier) to analyze student d
 👉 [Click Here to Open Live App]https://dhanu123-n-placement-intelligence-system-app-k3y4cy.streamlit.app/
 
  📁 Project Structure
- Student-Placement-Intelligence-System/
+Student-Placement-Intelligence-System/
 │
 ├── app.py
 │   → Main Streamlit web application (UI + prediction)
@@ -65,19 +65,19 @@ The system uses Machine Learning (Random Forest Classifier) to analyze student d
 │   → Trained Machine Learning model (Random Forest)
 │
 ├── train_model.py
-│   → Script used to train and save the ML model
+│   → Model training script
 │
 ├── dataset.csv
-│   → Student dataset used for training/testing
+│   → Training dataset
 │
 ├── requirements.txt
-│   → List of required Python libraries
+│   → Project dependencies
 │
 ├── utils.py
-│   → Helper functions (preprocessing, prediction, etc.)
+│   → Helper functions (data processing & prediction)
 │
 ├── visualization.py
-│   → Feature importance graphs and charts
+│   → Feature importance graphs
 │
 ├── README.md
 │   → Project documentation
